@@ -13,3 +13,7 @@
     padding-right: 20px;
     font-weight: 400;
 }
+
+.rr-header-container img {
+    cursor: pointer;
+}
