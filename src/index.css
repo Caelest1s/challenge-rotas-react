@@ -15,13 +15,13 @@
 
 header {
   width: 100%;
-  height: 80px;
+  height: 70px;
   display: flex;
   background-color: var(--rr-color-bg-header-primary);
 }
 
 nav {
-  width: 960px;
+  width: 1280px;
   margin: 0 auto;
   display: flex;
   align-items: center;
