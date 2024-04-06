@@ -1,0 +1,15 @@
+.rr-header-container {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.rr-header-links {
+    display: flex;
+    justify-content: space-around;
+}
+
+.rr-header-links h1 {
+    padding-right: 20px;
+    font-weight: 400;
+}
