@@ -2,6 +2,7 @@
     width: 100%;
     display: flex;
     justify-content: space-between;
+    align-items: center;
 }
 
 .rr-header-links {
@@ -9,9 +10,10 @@
     justify-content: space-around;
 }
 
-.rr-header-links h1 {
+.rr-header-links h4 {
     padding-right: 20px;
     font-weight: 400;
+    font-size: 16px;
 }
 
 .rr-header-container img {

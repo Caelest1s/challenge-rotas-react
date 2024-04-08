@@ -1,0 +1,12 @@
+.rr-container-itens {
+    width: 1280px;
+    margin: 20px auto;
+}
+
+.rr-subproduct {
+    padding: 20px 0;
+}
+
+.rr-subproduct h4{
+    font-weight: 400;
+}

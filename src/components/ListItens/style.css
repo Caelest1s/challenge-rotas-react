@@ -1,8 +1,3 @@
-.rr-container-itens {
-    width: 1280px;
-    margin: 20px auto;
-}
-
 .rr-product {
     padding: 20px;
     display: flex;
@@ -11,13 +6,5 @@
 
 .rr-product h4 {
     margin-right: 20px;
-    font-weight: 400;
-}
-
-.rr-subproduct {
-    padding: 20px 0;
-}
-
-.rr-subproduct h4{
     font-weight: 400;
 }

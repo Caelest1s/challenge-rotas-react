@@ -28,3 +28,17 @@ nav {
   align-items: center;
   color: var(--rr-color-font-primary);
 }
+
+a {
+  color: unset;
+  text-decoration: none;
+}
+
+.menu-active h4 {
+  color: red;
+  font-weight: 700;
+}
+
+.menu-desactive h4 {
+  color: var(--rr-color-font-primary);
+}
