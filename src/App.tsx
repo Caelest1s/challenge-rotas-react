@@ -19,9 +19,10 @@ function App() {
             <Route path="initial" element={<Welcome />} />
 
             <Route path="products" element={<Products />} >
-              <Route index element={<Computer />} />
-              <Route index element={<Eletronic />} />
-              <Route index element={<Book />} />
+              <Route index element={<Navigate to="computers" />} />
+              <Route path="computers" element={<Computer />} />
+              <Route path="eletronics" element={<Eletronic />} />
+              <Route path="books" element={<Book />} />
             </Route>
             <Route path="about-us" element={<AboutUs />} />
 

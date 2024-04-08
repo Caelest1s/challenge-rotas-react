@@ -35,10 +35,9 @@ a {
 }
 
 .menu-active h4 {
-  color: red;
   font-weight: 700;
 }
 
 .menu-desactive h4 {
-  color: var(--rr-color-font-primary);
+  font-weight: 400;
 }
